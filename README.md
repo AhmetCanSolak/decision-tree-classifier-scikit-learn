@@ -6,7 +6,7 @@ To develop this classifier, only [scikit-learn](https://github.com/scikit-learn/
 
 ![el](http://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png)
 
-##Dependencies
+## Dependencies
 
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
